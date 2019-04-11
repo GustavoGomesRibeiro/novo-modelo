@@ -1,0 +1,577 @@
+
+/*FORMATAÇÃO DA SECTION, BACKGROUND ETC..*/
+/*
+#section-1{
+    color: white;
+    background-image:  url('../img/predio.jpg');
+   opacity:0.95; 
+    padding-top:20px; 
+    padding-bottom:20px;
+    background:#303030;
+
+}*/
+
+/*.slick-dots{
+  height: 32px;
+  cursor: pointer;
+  border: 0px;
+  background-color: transparent;
+  text-indent: -9999px;
+}*/
+/*
+.slider .slick-dots {
+    background-color: rgba(0,0,0,.35);
+    border-top: 1px solid rgba(255,255,255,.1);
+    bottom: 0;
+    height: 65px;
+    line-height: 64px;
+    text-align: center;
+    width: 100%;
+    z-index: 10;
+    display: block;
+    margin: 0px 100px -19px;
+
+}
+
+.slick-dots{
+  position: absolute;
+  bottom: 45px;
+  list-style: none;
+  display: block;
+  text-align: center;
+  padding: 0px;
+  width: 100%;
+  
+}
+
+
+/*CONFIGURACAO DA LISTA NAO ORDENADA, AQUI SE DEFINE COMO VAI FICAR O SEU LAYOUT*/
+/*.slider .slick-dots li {
+  height: 32px;
+  width: 50px;
+
+}
+
+.slick-dots li {
+    position: relative;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    margin: 0 5px;
+    padding: 0px;
+    cursor: pointer;
+    
+
+}
+
+/*============================================CONFIGURACAO DO CONTEUDO DENTRO DO BOTAO==================================*/
+/*.slider .slick-dots li:nth-of-type(1) button {
+    
+    background-color: transparent;
+       background-image: url(../img/icons1-seguranca.png);
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: -140px 0;
+        background-position: top center;
+       border: 0;
+       cursor: pointer;
+       height: 50px;
+       text-indent: -9999px;
+       width: 100%;
+
+}
+
+.slider .slick-dots li:nth-of-type(2) button {
+    background-color: transparent;
+    background-image: url('../img/icons2-nuvem-50.png');
+    background-size: cover;
+       background-repeat: no-repeat;
+       background-position: -140px 0;
+        background-position: top center;
+       border: 0;
+       cursor: pointer;
+       height: 50px;
+       text-indent: -9999px;
+       width: 100%;
+    
+}
+
+.slider .slick-dots li:nth-of-type(3) button {
+    background-color: transparent;
+    background-image: url('../img/icons3-fonte-50.png');
+  background-size: cover;
+       background-repeat: no-repeat;
+       background-position: -140px 0;
+        background-position: top center;
+       border: 0;
+       cursor: pointer;
+       height: 50px;
+       text-indent: -9999px;
+       width: 100%;
+}
+
+.slider .slick-dots li:nth-of-type(4) button {
+    background-color: transparent;
+    background-image: url('../img/icons4-database.png');
+   background-size: cover;
+       background-repeat: no-repeat;
+       background-position: -140px 0;
+        background-position: top center;
+       border: 0;
+       cursor: pointer;
+       height: 50px;
+       text-indent: -9999px;
+       width: 100%;
+}
+
+.slider .slick-dots li:nth-of-type(5) button {
+    background-color: transparent;
+    background-image: url('../img/');
+   background-size: cover;
+       background-repeat: no-repeat;
+       background-position: -140px 0;
+        background-position: top center;
+       border: 0;
+       cursor: pointer;
+       height: 50px;
+       text-indent: -9999px;
+       width: 100%;
+}
+/*======================================PRIMEIRA SECTION ACABA AQUI==========================================*/
+
+
+/*======================================SEGUNDA SECTION COMEÇA AQUI==========================================*/
+/*
+#carousel{
+  height: 100%;
+}*/
+/*======================================SEGUNDA SECTION ACABA AQUI==========================================*/
+/*==========================================================================*/
+/*FORMTAÇÃO DO TAMANHO DA BORDA*/
+/*.tam{
+  
+    width: 430px;
+    height:320px;
+
+}
+
+/*FORMATAÇÃO DO TAMANHO DO VIDEO SECTION-1
+.video-move{
+    margin-left: auto;
+    width: 567px;
+    height: 315px;
+ position: relative;
+
+}
+
+/*FORMATAÇÃO DO TIPO DE FONTE DA SECTION-1
+.letter{
+    font-family: arial,verdana;
+   
+
+  }
+
+  /*================================================Splash page versao 1================================================================================*/
+/*.load{
+  width:100%;
+  height:100%;
+  background:black;
+  position: fixed;
+  top:0;
+  left: 0;
+  z-index:1;
+}
+.splashlogo{
+  width: 300px;
+  height: 70px;
+  margin: 150px auto 50px auto ;
+  font-size: 50px;
+  text-shadow: -1px 2px 2px #000 ;
+  text-align:center;
+  color: azure;
+}
+.load-frame{
+  width: 70px;
+  height: 70px;
+  margin: auto;
+  position: relative;
+
+}
+.load1, .load2{
+  position: absolute;
+  border: 5px solid transparent;
+  border-radius: 50%;
+}
+.load1{
+  width: 70px;
+  height: 70px;
+  border-top: 5px solid azure;
+  border-bottom: 5px solid azure;
+  animation: clockwisesoin 2s linear 3;
+}
+
+.load2{
+  width: 60px;
+  height: 60px;
+  border-left: 5px solid #0174DF;
+  border-right:5px solid #0174DF;
+  top: 5px; 
+  left: 5px;
+  animation: anticlockwisesoin 2s linear 3;
+}
+@keyframes clockwisesoin{
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg);}
+}
+@keyframes anticlockwisesoin{
+  from {transform: rotate(0deg);}
+  to {transform: rotate(-360deg);}
+}
+
+@keyframes fadeout{
+  from {opacity: 1;}
+  to {opacity: 0;}
+}*/
+/*==========================================================================================================================================*/
+/*================================================Splash page versao 2======================================================================
+.page-container{
+  width: 100%;
+  min-height: 100%;
+  height: 100vh;
+  background-image: url(../img/splash.png);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  display: table;
+  font-family: "Monteserrant",sans-serif;
+  color: #09389E;
+
+}
+.ellipse-container{
+  width: 50rem;
+  height:50rem;
+  border-radius: 50%;
+  margin: 0 auto;
+  position: relative;
+  top: 7rem;
+}
+.ellipse-container .greeting{
+  position: relative;
+  top: 14rem;
+  left: -6rem;
+  right: 0;
+  margin: 0 auto;
+  text-transform: uppercase;
+  letter-spacing: 2rem;
+  font-size: 8rem;
+  font-weight: 400;
+  opacity: .5;
+}
+.ellipse-container .greeting:after{
+  content: '';
+  width: .3rem;
+  height: .3rem;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: # 0C383E;
+  position: relative;
+  top: -0.65rem;
+  left: -5.05rem;
+
+}
+Configuração dos aros em volta
+.ellipse{
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  border-style: solid;
+}
+Aqui é definido a configuração do ellipse ao fundo
+.ellipse_outer-thin{
+    width: 100%;
+    height: 100%;
+    border-width: 1px;
+    border-color: rgba(9,56,62,.3);
+    animation: ellipseOrbit 15s ease-in-out infinite;
+}
+Aqui fica definido a img que deve aparecer no centro do ellipse 
+.ellipse_outer-thin:after{
+  content: "";
+  background-image:url(../img/transfe.png); 
+  background-repeat:no-repeat;
+  background-position: center;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  color: #000;
+  position: absolute;
+  opacity: .3;
+}
+ orbita que deve ficar girando. aqui fica toda configuração dela
+.ellipse-orbit{
+  width: 2.5rem;
+  height: 2.5rem;
+  border-width: 2px;
+  border-color: #09383E;
+  top:5rem;
+  right: 7.39rem;
+  
+  
+}
+.ellipse-orbit:before{
+  content: '';
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #09383E;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+
+
+}
+Aqui fica a parte de fora do ellipse. aqui fica toda configuração dela
+.ellipse_outer-thick{
+  width: 99.5%;
+  height: 99.5%;
+  border-color: #09383E transparent;
+  border-width: 2px;
+  transform: rotate(-45deg);
+  animation: ellipseRotate 15s ease-in-out infinite;
+}
+
+@keyframes ellipseRotate{
+  0%{
+      transform: rotate(-45deg);
+    }
+    100%{
+      transform: rotate(-405deg);
+    }
+}
+
+@keyframes ellipseOrbit{
+  0%{
+      transform: rotate(0deg);
+    }
+    100%{
+      transform: rotate(360deg);
+    }
+}
+
+======================================================================================================*/
+
+/*background-image: url(../img/background-home.png);
+   background-size: cover;
+   background-position: top center;
+   background-repeat: no-repeat;
+
+
+   .slider .slick-dots li {
+       height: 32px;
+       width: 28px;
+   }
+
+   .slider .slick-dots li:nth-of-type(1) button {
+       background-color: transparent;
+       background-image: url(../img/icons8-protect-24.png);
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: -140px 0;
+        background-position: top center;
+       border: 0;
+       cursor: pointer;
+       height: 28px;
+       text-indent: -9999px;
+       width: 100%;
+    }*/
+/* teste
+.menu-scroll {
+  position: fixed;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 75px;
+  z-index: 200;
+  opacity: 0;
+  margin-right: 4px;
+  animation: menu-scroll ease-in-out 2s forwards;
+  animation-delay: 1s; 
+}
+
+  @media (max-width: 767px) and (min-width: 2px) {
+    .menu-scroll {
+      display: none; } }
+
+      .lista-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 0; }
+
+.liga {
+  width: 15px;
+  height: 15px;
+  background-color: white;
+  border-radius: 15px;
+  cursor: pointer;
+  margin-bottom: 4px; }
+
+.desliga {
+  width: 9.5px;
+  height: 9.5px;
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 9.5px;
+  cursor: pointer;
+  margin-bottom: 4px; }
+
+.scroll-icon {
+  position: fixed;
+  top: 93%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 300;
+  animation: scrollupanddown ease-in-out infinite 2s alternate; }
+  @media (max-width: 1920px) and (min-width: 768px) {
+    .scroll-icon {
+      display: none; } }*/
+
+/* ESTUDAR O CARROSEL
+#carousel {
+    width:100%;
+    overflow:hidden;
+    position: relative;
+    top: -5px;
+
+}
+
+#carousel ul {
+width: 100%;
+padding:0;
+margin:0;
+}
+
+#carousel ul li {
+width:100%;
+text-align: center;
+height: auto;
+list-style:none;
+float:  left;
+}*/
+
+/*---------------------------------------------------------*/
+
+
+/*IDs e identificado usando o # ex:. #body*/
+
+/*classe e definida com um ponto ex: ".body"*/
+/*
+.body{
+
+  margin: 0;
+}*/
+/*
+header{
+
+  height: 50px;
+}
+*/
+
+/*topo id para o topo*/
+/*
+#topo{
+  height: 100px;
+}*/
+
+/*.logo{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}*/
+/*
+.menu{
+  display: flex;
+  align-items: center;
+  list-style: none;
+  text-decoration: none;
+
+}
+*/
+/*.menu{
+
+  margin-top: auto;
+  padding-top: 0px;
+}*/
+
+/*.sub-menu{
+  margin-top: auto;
+  display: block;
+}*/
+/* Removendo Bullets e Identação das Listas*/
+/*
+ul {
+margin: 0px;
+    padding: 0px ;
+    list-style: none;
+    width: 150px;
+}*/
+
+/*Posicionando Itens da Lista*/
+/*ul li {
+  position: relative;
+}*/
+
+/*Posicionando itens do sub-menu
+Com as propriedades CSS Left e Top podemos posicionar cada item do sub-menu ao lado de seu item pai.
+Definimos o display: none; para que o sub-menu não fique visível por padrão.*/
+/*li ul{
+     position: absolute;
+    left: 149px;
+    top: 0px;
+    display: none;
+
+}*/
+/* Melhorando aparência dos links*/
+/*
+ul li a {
+    display: block;
+    text-decoration: none;
+    color: #000;
+    background: #fff;
+    padding: 5px;
+    border: 1px solid #ccc; 
+}*/
+
+/*Exibindo o Submenu*/
+/*li:hover ul { display: block; }*/
+
+/*Estilizando a Classe Hover aparencia */
+/*
+ul li a:hover{
+    text-decoration:none;
+    font-weight: bold;
+    background: #ccc; }*/
+
+
+/*.background-menu{
+    background-image: url(../img/background-menu.jpg);
+    background-position: bottom center;
+    opacity: 0.8;
+    margin-bottom: 0;
+}*/
+
+/*.marcador{
+    background: #fe9d9d;
+    border:1px solid #f94646;
+}*/
+
+/*.marcador2{
+    background: #5bf946;
+    border:1px solid #36ae26;
+}*/

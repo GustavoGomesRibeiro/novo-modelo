@@ -1,0 +1,76 @@
+
+/*.anime{
+    color: white;
+    background-image:  url('../img/predio.jpg');
+    opacity:0.95; 
+    padding-top:20px; 
+    padding-bottom:20px;
+    background:#303030;
+    opacity: 0;
+    transform: translate3d(-100px,0,0);
+    transition: .3s;
+}
+.anime-start {
+  opacity: 1;
+  transform: translate3d(0,0,0);
+}
+*/
+/*
+.anime{
+    max-width: 800px;
+    margin: auto 200px;
+}
+
+section::after, section::before {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.grid-text {
+    width: calc(60% - 40px);
+}
+
+.grid-img {
+    width: calc(40% - 40px);
+}
+
+section  > div {
+    margin: 0 20px;
+    float: left;
+}
+
+section img {
+    margin-top: 20px;
+}
+
+.img-right {
+    text-align: right;
+}
+
+.scroll{
+    display: block;
+    max-width: 120px;
+    text-align: center;
+    border: 2px solid;
+    text-decoration: none;
+    padding: 8px 20px 10px 20px;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+
+.scroll:hover {
+    background: #8844EE;
+    color: white;
+}
+
+.anime {
+    opacity: 0;
+    transform: translate3d(-100px,0,0);
+    transition: .3s;
+}
+
+.anime-start {
+    opacity: 1;
+    transform: translate3d(0,0,0);
+}*/
